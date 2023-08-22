@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandiNavoiy beginer python developer
 - 👀 I’m interested in ...
 - 🌱  I’m currently learning Python
-
+Languages and Tools :
 
 <!---
 SandiNavoiy/SandiNavoiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
