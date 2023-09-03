@@ -21,8 +21,7 @@
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows8" alt="windows8" width="40" height="40"/>&nbsp;
 </div>
-
-## 🚀 Leetcode
+Leetcode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=SandiNavoiy&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 My Stats :
 
