@@ -25,6 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows8" alt="windows8" width="40" height="40"/>&nbsp;
 </div>
 
+
+
 My Stats :
 
 <div id="stat">
@@ -32,6 +34,9 @@ My Stats :
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandiNavoiy&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandiNavoiy&theme=github_dark"/>
 </div>
+
+## 🚀 Leetcode
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user7142Pu&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!---
 SandiNavoiy/SandiNavoiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
