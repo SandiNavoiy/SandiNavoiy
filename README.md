@@ -36,6 +36,7 @@ My Stats :
 </div>
 
 ## 🚀 Leetcode
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user7142)](https://github.com/KnlnKS/leetcode-stats)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user7142Pu&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!---
 SandiNavoiy/SandiNavoiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
