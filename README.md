@@ -34,7 +34,7 @@ My Stats :
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandiNavoiy&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandiNavoiy&theme=github_dark"/>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=SandiNavoiy&label=Profile%20views&color=0e75b6&style=flat" alt="SandiNavoiy" />
 ## 🚀 Leetcode
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user7142Pu&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
