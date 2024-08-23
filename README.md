@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SandiNavoiy beginer python developer
-- 👀 I am interested in interesting tasks that can be implemented in a free mode
+- 👋 Hi, I’m Alexsander, beginer python developer.
+- 👀 I am interested in interesting tasks that can be implemented.
 - 🌱  I’m currently learning Python
 ###     Languages and Tools :
 <div>
